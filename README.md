@@ -5,7 +5,6 @@
 
 I am **Pablo Cerda** working as **Fronted Developer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry ( 3 years). **Skilled in HTML, CSS , User Experience, Python, and WordPress.** Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer .I studied a bachelor's degree in technology at the university
 
-<!--
 
 
 - 🔭 I’m currently working as **Fronted Developer**
