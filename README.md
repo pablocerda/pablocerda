@@ -1,6 +1,6 @@
-<img>(https://user-images.githubusercontent.com/109476966/180488403-1e6e7c14-cf4b-4143-9caf-c68012f6fee6.png)
+
 <p>
-    <img src="https://user-images.githubusercontent.com/109476966/180488403-1e6e7c14-cf4b-4143-9caf-c68012f6fee6.png" width="220" height="240" />
+    <img src="https://user-images.githubusercontent.com/109476966/180488403-1e6e7c14-cf4b-4143-9caf-c68012f6fee6.png" width="1420" height="450" />
 </p>
 
 ### Hi there 👋
